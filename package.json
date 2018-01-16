@@ -1,11 +1,13 @@
 {
 	"name": "merricat",
-	"version": "1.0",
+	"version": "1.0.0",
 	"description": "Ghost theme",
-	"author": "Falon Darville",
-},
-
-"repository": {
-	"type": "git",
-	"url": "https://github.com/falondarville/merricat",
-},
+	"author": {
+		"name": "Falon Darville",
+		"email": "falondarville@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/falondarville/merricat"
+	}
+}
